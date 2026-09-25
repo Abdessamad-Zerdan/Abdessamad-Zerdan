@@ -1,16 +1,29 @@
-### Hi, I'm Abdessamad Zerdan 👋
+# Abdessamad Zerdan
 
-Computer Engineering student (3rd year), based in Turkey, originally from Morocco. Focused on applied AI — deep learning, LLMs, and agentic systems.
+**Applied AI Engineer · LLM & RAG Systems · AI for Logistics & Business Operations**
 
-- 🔭 **Currently building:** Command Center — a self-hosted daily brief app that triages Gmail/Calendar/Tasks with an LLM
-- 🌱 **Learning:** advanced deep learning architectures, LLM agent design
-- 👯 **Looking to collaborate on:** open-source ML projects, applied AI Agent work
-- 💬 **Ask me about:** AI engineering, deep learning, C++/Verilog digital design, studying engineering in a multilingual environment
-- 🌍 **Languages:** English, French, Arabic, Turkish
+I build AI systems that turn messy, real-world inputs into decisions — LLM and RAG applications, demand forecasting, and optimization for logistics, supply chain and business operations. I care about the whole system: clean backend design, reliable data flow, and tests that hold up as a project grows.
 
-### Reach me
-- LinkedIn: [abdessamad-zerdan](https://www.linkedin.com/in/abdessamad-zerdan-258a771b5/)
-- Email: zerdanabdessamad@gmail.com
+Computer Engineering @ Sakarya University of Applied Sciences (graduating 2027) · English · Arabic · Turkish · French
 
-### Tools
-Python · RAG · HuggingFace · TensorFlow · SQL · C++ · Verilog · Git
+---
+
+### Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Command Center](https://github.com/Abdessamad-Zerdan/Command-Center)** | Self-hosted assistant that turns Gmail, Calendar and Tasks into one LLM-prioritized daily brief, with a RAG assistant and a provider-agnostic LLM layer. 1,029 automated tests across ~10k lines of code. | Python · FastAPI · SQLite · Anthropic / Groq / Ollama |
+| **[TEKNOFEST 2026 — AI Logistics Optimization](https://github.com/Abdessamad-Zerdan/Teknofest-Artai-Logistics-2026)** | Semi-finalist with Team ARTAI. Demand forecasting plus route and fleet optimization that cut baseline transport cost by up to 45% with full demand coverage and zero rule violations. | Python · LightGBM · Operations Research · ALNS |
+
+### What I work with
+
+- **AI / ML:** LLM applications · RAG · Machine Learning · Time-series forecasting · LightGBM · Hugging Face · TensorFlow
+- **Optimization:** Operations Research · Vehicle routing · Scheduling · Dynamic programming
+- **Backend & data:** Python · FastAPI · REST APIs · SQL · Kafka (Confluent certified) · Git
+- **Also:** C++ · Verilog (digital design)
+
+Open to **internships and junior roles** in applied AI / LLM engineering.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/abdessamad-zerdan) · zerdanabdessamad@gmail.com
