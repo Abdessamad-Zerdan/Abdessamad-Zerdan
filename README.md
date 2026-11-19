@@ -33,7 +33,7 @@ Computer Engineering @ Sakarya University of Applied Sciences (graduating 2027) 
 - **AI / ML:** LLM applications · RAG · tool-calling agents · time-series & probabilistic forecasting · LightGBM · Hugging Face · TensorFlow
 - **Optimization:** operations research · vehicle routing · scheduling · dynamic programming
 - **Backend & data:** Python · FastAPI · REST APIs · SQL / SQLite · Kafka (Confluent certified) · Docker · GitHub Actions
-- **Also:** C++ · Verilog (pipelined CPU design)
+- **Also:** Prompt engineering · Pandas · Jinja / Tailwind / Alpine.js (server-rendered UIs)
 
 ### 📫 Contact
 
