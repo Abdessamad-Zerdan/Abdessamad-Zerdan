@@ -26,7 +26,7 @@ Computer Engineering @ Sakarya University of Applied Sciences (graduating 2027) 
 | **[Command Center](https://github.com/Abdessamad-Zerdan/Command-Center)** | Self-hosted assistant that turns Gmail, Calendar and Tasks into one LLM-prioritized daily brief, with a RAG assistant, tool-calling and a provider-agnostic LLM layer. 1,000+ automated tests across ~10k lines of code. | Python · FastAPI · SQLite · Anthropic / Groq / Ollama |
 | **[Agenthon forecaster](https://github.com/Abdessamad-Zerdan/agenthon-t2-build)** | Probabilistic 1–4 day forecasts for Treasury yields, FX and monthly statistics: filtered historical simulation, event-aware variance, validated on a 2,000-card backtest. | Python · NumPy · Docker · GitHub Actions |
 | **[TEKNOFEST logistics](https://github.com/Abdessamad-Zerdan/Teknofest-Artai-Logistics-2026)** | Demand forecasting plus route and fleet optimization for a nationwide mixed fleet across 289 routes. | Python · LightGBM · Clarke-Wright · DP |
-| **Legal AI for Turkish law** *(private, in development)* | A domain-directed AI system for legal research, built to stay grounded in sources instead of acting as a general chatbot. | Python · LLMs |
+| **Legal AI platform** *(in development · confidential)* | An AI product for the legal domain, being developed as a startup project. Code and details are not public; happy to discuss at a high level on request. | Python · LLMs |
 
 ### 🧰 What I work with
 
